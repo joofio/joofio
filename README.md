@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p>Welcome to my page! </br> I'm João, Data Scientist  from <img src="https://cdn-icons.flaticon.com/png/512/5372/premium/5372974.png?token=exp=1646665388~hmac=5dabfed80794a24191aac5b6525bc08d" width="13"/> <b> Portugal</b>, currently a PhD student for machine learning in healthcare </p>
+<p>Welcome to my page! </br> I'm João, Data Scientist  from  <b> Portugal</b>, currently a PhD student for machine learning in healthcare </p>
 <h3>Things I work with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=Python&logoColor=white" />
