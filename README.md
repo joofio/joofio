@@ -11,7 +11,6 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-007ACC?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-5849BE?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-311C87?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-430098?style=flat-square&logo=Rust&logoColor=white" />
   <img alt="Mirth Connect" src="https://img.shields.io/badge/-Mirth_Connect-764ABC?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-B7178C?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="HL7" src="https://img.shields.io/badge/-HL7-E10098?style=flat-square&logo=redux&logoColor=white" />
