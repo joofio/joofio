@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p>Welcome to my page! </br> I'm João, Data Scientist  from  <b> Portugal</b>, currently a PhD student for machine learning in healthcare </p>
+<p>Welcome to my page! </br> I'm João, Data Scientist  from  <b> Portugal</b>, currently working with interoperability and AI in healthcare. </p>
 <h3>Things I work with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=Python&logoColor=white" />
