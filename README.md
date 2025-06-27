@@ -7,6 +7,7 @@
   <li>R</li>
   <li>HL7</li>
   <li>AI & ML</li>
+  <li>Biostatistics</li>
   <li>Drug Information</li>
   <li>Causality Assessment</li>
   <li>Federated learning</li>
