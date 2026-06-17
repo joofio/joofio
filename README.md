@@ -16,7 +16,7 @@
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@jfcal).
+Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@jfcal) or in the [blog](https://www.joaofcalmeida.pt/blog.html)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/joofio/joofio">
